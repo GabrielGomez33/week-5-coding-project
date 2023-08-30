@@ -1,0 +1,7 @@
+*** Hello ***
+********************
+*** Error: Hello ***
+********************
+
+H a y   u n   e r r o r   a m i g o
+ERROR: H a y   u n   e r r o r   a m i g o
